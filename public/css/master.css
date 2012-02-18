@@ -1,0 +1,417 @@
+html
+{
+    margin: 0px;
+    padding: 0px;
+    background: #000000;
+    width:100%;
+    height:100%;
+    font-family: helvetica, arial;
+    font-size: 16px;
+}
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.background
+{
+    background: url('../images/background.jpg') no-repeat;
+    width:1024px;
+    height:786px;
+    position: absolute;
+    left: 50%;
+    margin-left: -512px;
+    top:0px;
+    z-index: 0;
+}
+
+.header
+{
+    background: url('../images/header.png') repeat-x;
+    width:100%;
+    height:52px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    z-index: 1;
+}
+
+.logo
+{
+    width:900px;
+    height:30px;
+    position:absolute;
+    left: 50%;
+    margin-left: -450px;
+    top:5px;
+    z-index: 2;
+    color: #a88c5c;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.navigation
+{
+    background: url('../images/area.png') repeat;
+    width:100%;
+    height:25px;
+    position:absolute;
+    left:0px;
+    top:36px;
+    z-index: 1;
+    border-bottom: 1px dotted white;
+}
+
+.nav
+{
+    width:920px;
+    position:absolute;
+    left: 50%;
+    margin-left: -460px;
+    top:2px;
+    height: 20px;
+    z-index: 2;
+    text-align: right;
+}
+
+span.selected
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+a:link
+{
+    font-size: 16px;
+    color: #774721;
+    text-decoration: none;
+    border-bottom: 1px dotted #774721;
+    font-size: 14px;
+}
+
+a:visited
+{
+    font-size: 16px;
+    color: #774721;
+    text-decoration: none;
+    border-bottom: 1px dotted #774721;
+    font-size: 14px;
+}
+
+a:active
+{
+    font-size: 16px;
+    color: #774721;
+    text-decoration: none;
+    border-bottom: 1px dotted #774721;
+    font-size: 14px;
+}
+
+nav a:hover
+{
+    font-size: 14px;
+    color: #774721;
+    text-decoration: none;
+    border-bottom: 1px dotted #774721;
+}
+
+
+.nav a:link
+{
+    font-size: 14px;
+    color: #774721;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom: 0px solid;
+}
+
+.nav a:visited
+{
+    font-size: 14px;
+    color: #774721;
+    text-decoration: none;
+    border-bottom: 0px solid;
+}
+
+.nav a:active
+{
+    font-size: 14px;
+    color: #774721;
+    text-decoration: none;
+    border-bottom: 0px solid;
+}
+
+.nav a:hover
+{
+    font-size: 14px;
+    color: #774721;
+    border-bottom: 1px dotted #774721;
+}
+
+.content
+{
+    position:absolute;
+    width: 900px;
+    z-index:2;
+    top: 75px;
+    left: 50%;
+    margin-left: -450px;
+}
+
+.area
+{
+    background: url('../images/area.png') repeat;
+    padding: 20px;
+    border: 1px dotted white;
+    min-height: 80px;
+    margin:15px;
+}
+
+.left
+{
+    width: 525px;
+    float:left;
+    margin:15px;
+}
+
+.right
+{
+    width: 230px;
+    float:right;
+    margin:15px;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.title
+{
+    background: url('../images/title.png') repeat;
+    padding:10px;
+    width: 100%;
+    text-align:right;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    border: 1px dotted black;
+    margin-bottom: 20px;
+}
+
+.time
+{
+    float:left;
+    font-size: 12px;
+    margin-top:10px;
+    font-weight: normal;
+    width: 50%;
+    text-align: left;
+}
+
+.label
+{
+    width: 80px;
+    display: inline-block;
+}
+
+textarea
+{
+    width: 220px;
+    height: 100px;
+}
+
+textarea.full
+{
+    width: 100%;
+    height: 100px;
+}
+
+input[type='text'], input[type='password']
+{
+    width: 140px;
+}
+
+select
+{
+    width: 146px;
+}
+
+input[type='submit']
+{
+    margin-left: 0px;
+}
+
+.error
+{
+    background: url('../images/error.png') repeat;
+    padding:10px;
+    width: 100%;
+    text-align:center;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    border: 1px dotted red;
+    margin-bottom: 20px;
+    margin-left: -21px;
+}
+
+.message
+{
+    background: url('../images/title.png') repeat;
+    padding:10px;
+    width: 100%;
+    text-align:center;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    border: 1px dotted black;
+    margin-bottom: 20px;
+    margin-left: -21px;
+}
+
+table
+{
+    width: 100%;
+}
+
+th
+{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: top;
+}
+
+td.small
+{
+    font-size: 12px;
+}
+
+p.indented
+{
+    margin-left: 20px;
+}
+
+p.doubleindented
+{
+    margin-left: 40px;
+}
+
+img, iframe.youtube
+{
+    border: 1px dotted #ecebe8;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    background: white;
+}
+
+img.external
+{
+    border: 0px solid;
+    padding: 0px;
+    margin: 0px;
+    background: transparent;
+}
+
+.category
+{
+    margin-top: 20px;
+    font-size: 12px;
+    text-align: right;
+}
+
+.title a:link
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px dotted #ffffff;
+}
+
+.title a:visited
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px dotted #ffffff;
+}
+
+.title a:active
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px dotted #ffffff;
+}
+
+.title a:hover
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px dotted #ffffff;
+}
+
+.download
+{
+    padding-left: 36px;
+    height: 36px;
+    padding-top: 5px;
+}
+
+.pdf
+{
+    background: url('../images/icons/pdf.png') no-repeat;
+}
+
+.zip
+{
+    background: url('../images/icons/zip.png') no-repeat;
+}
+
+.file
+{
+    background: url('../images/icons/file.png') no-repeat;
+}
+
+.git
+{
+    background: url('../images/icons/git.png') no-repeat;
+}
+
+ul, ol, li
+{
+    margin: 0px;
+    margin-left: 7px;
+    padding: 0px;
+}
+
+hr
+{
+    color: white;
+}
+
+.warning
+{
+    background: url('../images/warning.png') repeat;
+    padding:10px;
+    width: 100%;
+    text-align:center;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    border: 1px dotted #edae17;
+    margin-bottom: 20px;
+    margin-left: -21px;
+    margin-top: 20px;
+}
