@@ -9,7 +9,7 @@
     
     <p>
         One of the projects related to the
-        automatic coding of natural language (textual) into ICD-10 codes using a "thesaurus" lookup file. Based on this project I 
+        automatic coding of natural language (textual) causes of death into ICD-10 codes using a "thesaurus" lookup file. Based on this project I 
         had the opportunity to co-author a paper analyzing such automatic coding methods for statistical data.
     </p>
     

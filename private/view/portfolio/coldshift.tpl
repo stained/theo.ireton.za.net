@@ -73,6 +73,21 @@
     
 </article>
 
+
+<article class="area left">
+    <section class="title">
+        <a href='http://www.aadexpo.co.za/'>Africa Aerospace &amp; Defence Expo</a>
+    </section>
+    
+    <p>
+        Redevelopment of the Africa Aerospace &amp; Defence 2010 Expo website (kept the same design) using AJAX to load pages, 
+        and a PHP / MySQL backend for the data in place of the original static pages.
+    </p>
+    
+    <img src='https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/aad.jpg' />
+    
+</article>
+
 <article class="area left">
     <section class="title">
         Elan Avi Health
@@ -85,7 +100,6 @@
     <img src='https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/elanavi.gif' style='width: 480px;' />
     <img src='https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/elanavi_posters.gif' style='width: 480px;' />
 </article>
-
 
 <article class="area left">
     <section class="title">

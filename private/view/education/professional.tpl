@@ -22,7 +22,7 @@
             <tr>
                 <th>Qualification:</th>
                 <td class='small'>
-                    3 Professional Development Hours
+                    4 Professional Development Hours (PDHs)
                 </td>
             </tr>
             <tr>
@@ -36,13 +36,16 @@
                 <th>Transcripts:</th>
                 <td class='small'>
                     <section class="download pdf">
-                        <a href="http://">Mobile Web Technologies for the Developing World</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Mobile+Web+Technologies+for+the+Developing+World.pdf">Mobile Web Technologies for the Developing World</a>
                     </section>    
                     <section class="download pdf">
-                        <a href="http://">Internet Access in Rural Africa</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Internet+Access+in+Rural+Africa.pdf">Internet Access in Rural Africa</a>
                     </section>    
                     <section class="download pdf">
-                        <a href="http://">Sending Educational Data via Radio Waves</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Sending+Educational+Data+via+Radio+Waves.pdf">Sending Educational Data via Radio Waves</a>
+                    </section>    
+                    <section class="download pdf">
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Sustainable+Electrification+Solutions+for+Developing+Countries.pdf">Sustainable Electrification Solutions for Developing Countries</a>
                     </section>    
                 </td>
             </tr>
@@ -139,7 +142,7 @@
             <tr>
                 <th>Qualification:</th>
                 <td class='small'>
-                    License (ZR6TMI)
+                    Operator's License (ZR6TMI)
                 </td>
             </tr>
             <tr>
@@ -153,7 +156,7 @@
                 <th>&nbsp;</th>
                 <td>
                     <section class="download pdf">
-                        <a href="http://">download certification</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Operators+Certificate.pdf">download certificate</a>
                     </section>    
                 </td>
             </tr>
@@ -191,7 +194,7 @@
                 <th>&nbsp;</th>
                 <td>
                     <section class="download pdf">
-                        <a href="http://">download certificate</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Certificate+Introdution+to+Micro-Controller.pdf">download certificate</a>
                     </section>    
                 </td>
             </tr>
@@ -231,7 +234,7 @@
                 <th>&nbsp;</th>
                 <td>
                     <section class="download pdf">
-                        <a href="http://">download certificate</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Certificate+of+Proficiency+-+Introduction+to+Desktop+Music+Production.pdf">download certificate</a>
                     </section>    
                 </td>
             </tr>

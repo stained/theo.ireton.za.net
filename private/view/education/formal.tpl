@@ -33,7 +33,7 @@
                 <th>Lessons:</th>
                 <td class='small'>
                     <section class="download pdf">
-                        <a href="http://">complete list of lessons</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/lessons/Electronics+Technology+Lessons.pdf">complete list of lessons</a>
                     </section>                    
                 </td>
             </tr>
@@ -68,22 +68,19 @@
                 <th>Transcripts:</th>
                 <td class='small'>
                     <section class="download pdf">
-                        <a href="http://">COLL100: Foundations of Online Learning</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Foundations+of+Online+Learning.pdf">COLL100: Foundations of Online Learning</a>
                     </section>    
                     <section class="download pdf">
-                        <a href="http://">SCIN108: Introduction to Astronomy</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Introduction+to+Astronomy.pdf">SCIN108: Introduction to Astronomy</a>
                     </section>    
                     <section class="download pdf">
-                        <a href="http://">SCIN109: Introduction to Astronomy Lab</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Introduction+to+Astronomy+Lab.pdf">SCIN109: Introduction to Astronomy Lab</a>
                     </section>    
                     <section class="download pdf">
-                        <a href="http://">MATH110: College Algebra</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/College+Algebra.pdf">MATH110: College Algebra</a>
                     </section>    
                     <section class="download pdf">
-                        <a href="http://">SPST300: Introduction to Space Studies</a>
-                    </section>    
-                    <section class="download pdf">
-                        College Trigonometry
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/transcripts/Introduction+to+Space+Studies.pdf">SPST300: Introduction to Space Studies</a>
                     </section>    
                 </td>
             </tr>

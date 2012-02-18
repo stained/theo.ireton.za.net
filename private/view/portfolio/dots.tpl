@@ -8,7 +8,8 @@
     </p>
 
     <p>
-        Since I'm not planning on taking the concept any further, I'm open-sourcing the existing code under an unrestricted "do what you want with it" license. 
+        Since I'm not planning on taking the concept any further, I'm open-sourcing the existing code under an unrestricted "do what you want with it" license,
+        as is without warranties or expectations.
     </p>
     
     <img src='https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/dotsandboxes.jpg' />
@@ -19,7 +20,7 @@
     </p>
     
     <section class="download git">
-        <a href="https://github.com/stained/dotsandboxes" target="_blank">
+        <a href="https://github.com/stained/dots-and-boxes" target="_blank">
             Get the code on github
         </a>
         <img src='/images/external.png' class='external' />

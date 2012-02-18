@@ -1,6 +1,6 @@
 <article class="area left">
     <section class="title">
-        <a href='http://www.statssa.gov.za/' target='_blank'>theo.ireton.za.net</a>
+        <a href='http://theo.ireton.za.net/' target='_blank'>theo.ireton.za.net</a>
     </section>
     
     <img src='https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/site.jpg' style='float:left' />
@@ -29,7 +29,7 @@
             <li>Pretty secure as far as I can tell</li>
             <li>Basic blogging capabilities</li>
             <li>Should be pretty simple to customize</li>
-            <li>Released under a "do what you want with it" license (no restrictions)</li>
+            <li>Released under a "do what you want with it" license (no restrictions), as is without warranties or expectations.</li>
         </ul>
     </p>
     

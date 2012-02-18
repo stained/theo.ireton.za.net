@@ -12,8 +12,9 @@
         decade or so. 
     </p>
     
+    <!--
     <section class="download pdf">
         <a href="http://">download my complete resume</a>
     </section>
-    
+    -->
 </article>

@@ -15,11 +15,14 @@ class Portfolio
         // set navigation elements
         $view->navigation = \System\View::load('navigation', 'root')->set('selected', 'portfolio');
         
-        // set default content
-        $view->content = \System\View::load('page');
+        // set default content to first professional entry
+        $view->content = \System\View::load('professional');
         
         // show nav
         $view->content->nav = \System\View::load('nav');
+
+        $view->content->nav->selected = '/portfolio/professional/boom';
+        $view->content->page = \System\View::load('boom');        
         
         return $view;
     }
@@ -110,6 +113,8 @@ class Portfolio
         
         $view->content->nav = \System\View::load('nav');
                 
+        // one could do this dynamically, but I prefer to keep it like this to make
+        // it as flexible as possible
         switch(strtolower($parameters[0]))
         {
             case 'hackershack':
@@ -126,6 +131,26 @@ class Portfolio
                 $view->content->nav->selected = '/portfolio/personal/dots';
                 $view->content->page = \System\View::load('dots');
                 break;
+            
+            case 'cvshift':
+                $view->content->nav->selected = '/portfolio/personal/cvshift';
+                $view->content->page = \System\View::load('cvshift');
+                break;
+
+            case 'oao':
+                $view->content->nav->selected = '/portfolio/personal/oao';
+                $view->content->page = \System\View::load('oao');
+                break;
+
+            case 'snow':
+                $view->content->nav->selected = '/portfolio/personal/snow';
+                $view->content->page = \System\View::load('snow');
+                break;
+            
+            case 'voicelog':
+                $view->content->nav->selected = '/portfolio/personal/voicelog';
+                $view->content->page = \System\View::load('voicelog');
+                break;            
             
             default:
                 header("Location: /portfolio");

@@ -33,6 +33,7 @@
                     </ul>
                 </td>
             </tr>
+            <!--
             <tr><td colspan="2">&nbsp;</td></tr>
             <tr>
                 <th>Transcript:</th>
@@ -42,6 +43,7 @@
                     </section>
                 </td>
             </tr>
+            -->
         </table>
     </p>
     

@@ -35,6 +35,7 @@
                     In-Progress
                 </td>
             </tr>
+            <!--
             <tr><td colspan="2">&nbsp;</td></tr>
             <tr>
                 <th>Transcripts:</th>
@@ -53,7 +54,7 @@
                     </section>                    
                 </td>
             </tr>
-            
+            -->
             <tr><td colspan="2"><hr /></td></tr>
             <tr><td colspan="2">&nbsp;</td></tr>
             
@@ -92,7 +93,7 @@
                 <th>Lectures:</th>
                 <td class='small'>
                     <section class="download pdf">
-                        <a href="http://">complete list of lectures</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/lessons/NPTEL+Robotics+Lectures.pdf">complete list of lectures</a>
                     </section>                    
                 </td>
             </tr>
@@ -135,7 +136,7 @@
                 <th>Lectures:</th>
                 <td class='small'>
                     <section class="download pdf">
-                        <a href="http://">complete list of lectures</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/lessons/Earth+and+Environmental+Systems+Lectures.pdf">complete list of lectures</a>
                     </section>                    
                 </td>
             </tr>
@@ -178,7 +179,7 @@
                 <th>Lectures:</th>
                 <td class='small'>
                     <section class="download pdf">
-                        <a href="http://">complete list of lectures</a>
+                        <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/education/lessons/Aircraft+Systems+Engineering+Lectures.pdf">complete list of lectures</a>
                     </section>                    
                 </td>
             </tr>

@@ -21,4 +21,8 @@ to get started:
 * create a symbolic link from your web root directory to the public folder
 * copy private/config/system.cfg.sample to private/config/system.cfg
 * edit system.cfg as necessary
+* edit the database name in the db create script in db/create.sql
+* execute the db create script
 * this all assumes you are able to set up a basic LAMP stack.
+
+I've committed all code and assets as it exists on my personal website to make it easier to just take it and customize it as necessary.
