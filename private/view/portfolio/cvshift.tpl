@@ -4,7 +4,7 @@
     </section>
     
     <p>
-        My previous attempt at creating an online portfolio, developed after hours during the last month of 6th Line's existence (out of necessity). 
+        My previous attempt at creating an online portfolio, developed after-hours during the last month of 6th Line's existence (out of necessity). 
         The concept itself is solid, as is most of the code, however I've learned a lot since then and prefer to keep it 
         <a href='/portfolio/personal/site'>simple</a>. However, if you prefer an AJAX-driven
         site with complex (but decent) U.I. effects, then take a look at this project.

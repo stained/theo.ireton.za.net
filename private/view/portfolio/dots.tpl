@@ -4,7 +4,8 @@
     </section>
     
     <p>
-        My experiments with Canvas2D to create an Android version of an old <a href='http://en.wikipedia.org/wiki/Dots_and_boxes' target='_blank'>game</a>.
+        My experiments with Canvas2D to create an Android version of an old <a href='http://en.wikipedia.org/wiki/Dots_and_boxes' target='_blank'>game</a>
+        <img src='/images/external.png' class='external' />
     </p>
 
     <p>

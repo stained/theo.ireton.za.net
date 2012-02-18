@@ -9,6 +9,7 @@
         <title><?php echo !empty($this->title) ? $this->title : \System\Config::get('site'); ?></title>
         
         <link rel="stylesheet" type="text/css" href="/css/master.css" />
+        <link rel="shortcut icon" href="favicon.ico" />
     </head>
     
     <body>
