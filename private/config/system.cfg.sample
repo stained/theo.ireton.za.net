@@ -1,0 +1,47 @@
+<?php
+
+/**
+ * Copy this file to system.cfg and make changes as necessary
+ */
+
+return array(
+    
+    // current server environment
+    // suggested values: local, staging, production
+    'current'=>'local',
+    
+    // name of site
+    'site'=>'sample.com',
+    
+    // show new blog post in blog - will only show when logged in
+    'show_new_post'=>false,
+    
+    // contact details
+    'contact'=>array(
+        'email'=>'user@sample.com',
+        'skype'=>'sampleuser',
+        'twitter'=>'sampleuser',
+        'facebook'=>'sampleuser',
+    ),
+    
+    // user login details
+    'user'=>array(
+        'username'=>'user',
+        'password'=>'1234567890', // md5ed hash of plain text username . password, use an online service to generate
+        'fullname'=>'User',
+        'cookie'=>'samplecom_user'
+    ),
+    
+    // local-specific values
+    'local'=>array(
+        
+        // mysql connection
+        'mysql'=>array(
+            'server'=>'localhost',
+            'port'=>'3306',
+            'user'=>'root',
+            'password'=>'',
+            'database'=>'sample.com'
+        ),
+    ),
+);
