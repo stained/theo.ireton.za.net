@@ -18,7 +18,7 @@
     <section class="download zip">
         <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/SnowWind.zip" target="_blank">
             Download project with code
-        </a>
+        </a><img src='/images/external.png' class='external' />
     </section>  
     
 </article>

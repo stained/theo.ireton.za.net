@@ -26,7 +26,7 @@
 
 <article class="area left">
     <section class="title">
-        <a href='http://construq.com' target='_blank'>Construq Building Concepts</a>
+        <a href='http://construq.com' target='_blank'>Construq Building Concepts</a><img src='/images/external.png' class='external' />
     </section>
     
     <p>

@@ -5,7 +5,8 @@
 
     <p>
         The 6th Line legacy consists of a single product. Developed over a period of around 4 years (and many, many iterations) by a 
-        team of 2 to 4 people (myself included) at any point in time, <a href='http://www.mobicanvas.com' target='_blank'/>Mobicanvas</a> 
+        team of 2 to 4 people (myself included) at any point in time, <a href='http://www.mobicanvas.com' target='_blank'/>Mobicanvas</a>
+        <img src='/images/external.png' class='external' />
         turned out to be a pretty advanced (but simple to use) WYSIWYG tool for mobile website development.  
     </p>
     

@@ -4,7 +4,7 @@
     </section>
     
     <p>
-        My open-source game developed for <a href='http://www.open-aerospace.org/tiki-index.php'>Open Aerospace</a>. 
+        My open-source game developed for <a href='http://www.open-aerospace.org/tiki-index.php'>Open Aerospace</a><img src='/images/external.png' class='external' />. 
         The basic game mechanic revolves around building, customizing and launching, an initially single-stage, rocket designed from basic components 
         with specific characteristics which define the final velocity and altitude. 
     </p>
@@ -22,6 +22,7 @@
 
     <p>
         A more complete discussion of the game can be found on the <a href='https://www.open-aerospace.org/tiki-index.php?page=Game&structure=projects'>Open Aerospace</a>
+        <img src='/images/external.png' class='external' />
         wiki.
     </p>
     

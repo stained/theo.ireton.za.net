@@ -5,7 +5,8 @@
     
     <p>
         Hackershack is a collaborative effort to build a simulated Cape Town-based 
-        <a href='http://hackerspaces.org/wiki/' target='_blank'>hackerspace</a>. It won't be a true hackerspace in the sense of 
+        <a href='http://hackerspaces.org/wiki/' target='_blank'>hackerspace</a><img src='/images/external.png' class='external' />. 
+        It won't be a true hackerspace in the sense of 
         the brand (since we have neither the space or the funding), but will have similar goals (the creation of awesome stuff).
     </p>
     

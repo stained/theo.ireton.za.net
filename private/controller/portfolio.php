@@ -142,6 +142,11 @@ class Portfolio
                 $view->content->page = \System\View::load('oao');
                 break;
 
+            case 'mappy':
+                $view->content->nav->selected = '/portfolio/personal/mappy';
+                $view->content->page = \System\View::load('mappy');
+                break;
+            
             case 'snow':
                 $view->content->nav->selected = '/portfolio/personal/snow';
                 $view->content->page = \System\View::load('snow');

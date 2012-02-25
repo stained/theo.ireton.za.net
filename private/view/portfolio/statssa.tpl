@@ -16,7 +16,7 @@
     <section class="download pdf">
         <a href="https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/Maximising+the+use+of+South+African+administrative+information+systems.PDF">
             Maximising the use of South African administrative information systems in undertaking limited automatic coding of causes of death
-        </a>
+        </a><img src='/images/external.png' class='external' />
     </section>                    
 
 </article>

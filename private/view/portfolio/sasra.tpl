@@ -10,7 +10,8 @@
     
     <p>
         Development of a cross-platform app for NASA's 
-        <a href='http://www.nasa.gov/offices/education/centers/kennedy/technology/lunabotics.html' target='_blank'>Lunabotics Mining Competition</a>.
+        <a href='http://www.nasa.gov/offices/education/centers/kennedy/technology/lunabotics.html' target='_blank'>Lunabotics Mining Competition</a>
+        <img src='/images/external.png' class='external' />.
     </p>
     
     <img src='https://s3-eu-west-1.amazonaws.com/theo.ireton.za.net/portfolio/lunabotics1.jpg' />
@@ -20,10 +21,12 @@
     
     <section class="download file">
         <a href="https://s3.amazonaws.com/sasra/NASA/Lunabotics/desktop/Lunabotics.exe">Download Windows desktop client</a>
+        <img src='/images/external.png' class='external' />
     </section>    
     
     <section class="download file">
         <a href="https://s3.amazonaws.com/sasra/NASA/Lunabotics/android/Lunabotics.apk">Download Android mobile client</a>
+        <img src='/images/external.png' class='external' />
     </section>    
     
     <p>

@@ -9,7 +9,7 @@
                 <th>Year:</th><td class='small'>2012</td>
             </tr>
             <tr>
-                <th>Duration:</th><td class='small'>3 Hours</td>
+                <th>Duration:</th><td class='small'>4 Hours</td>
             </tr>
             <tr>
                 <th>Institution:</th>
